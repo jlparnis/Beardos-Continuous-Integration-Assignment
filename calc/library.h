@@ -3,5 +3,6 @@
 
 int add(int a, int b);
 int subtract(int num1, int num2);
+int divide(int a, int b);
 int mult(int num1, int num2);
 #endif
