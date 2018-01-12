@@ -1,6 +1,7 @@
 #ifndef BEARDOS_CONTINUOUS_INTEGRATION_ASSIGNMENT_LIBRARY_H
 #define BEARDOS_CONTINUOUS_INTEGRATION_ASSIGNMENT_LIBRARY_H
 
-void hello(void);
+
+int subtract(int num1, int num2);
 
 #endif
