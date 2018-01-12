@@ -8,3 +8,6 @@ int add(int a, int b){
 int subtract(int num1, int num2){
     return num1-num2;
 }
+int divide(int a, int b){
+    return a/c;
+}
